@@ -31,5 +31,8 @@ public class Single_Level_Inheritance {
 	 public void show() {
 		 System.out.println(legs + " " + color);
 	 }
- }
  
+ public void display() {
+	 System.out.println("I am from different child class");
+ }
+ }
